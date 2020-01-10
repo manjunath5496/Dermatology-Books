@@ -51,6 +51,30 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(25).pdf" style="text-decoration:none;">Concise Manual of Cosmetic Dermatologic Surgery</a></b></li>  
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(26).pdf" style="text-decoration:none;">Daily Routine in Cosmetic Dermatology</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(26).pdf" style="text-decoration:none;">Daily Routine in Cosmetic Dermatology</a></b></li> 
+   
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(27).pdf" style="text-decoration:none;">100 CASES in Dermatology</a></b></li>  
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(28).pdf" style="text-decoration:none;">Small Animal Dermatology</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(29).pdf" style="text-decoration:none;">Dermatology for the Advanced Practice Nurse</a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(30).pdf" style="text-decoration:none;">Manual of Dermatologic Therapeutics</a></b></li> 
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(31).pdf" style="text-decoration:none;">Emergency Dermatology</a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(32).rar" style="text-decoration:none;">Shimizu's Textbook of Dermatology</a></b></li> 
+     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(33).rar" style="text-decoration:none;">Dermatological Cryosurgery and Cryotherapy</a></b></li>  
+   
+   
+   
+   
+   
+   
+   
+   
      
  </ul>
