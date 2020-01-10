@@ -38,9 +38,19 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(18).pdf" style="text-decoration:none;">Retinoids and Carotenoids in Dermatology</a></b></li>  
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(19).pdf" style="text-decoration:none;">Derm Notes: Dermatology Clinical Pocket Guide</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(20).pdf" style="text-decoration:none;">A Clinician's Guide to Dermatologic Differential Diagnosis</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(21).pdf" style="text-decoration:none;">Dermatology at a Glance</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(22).rar" style="text-decoration:none;">Inpatient Dermatology</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(23).pdf" style="text-decoration:none;">Antibiotic and Antifungal Therapies in Dermatology</a></b></li>  
 
-
-
-
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(24).pdf" style="text-decoration:none;">Atlas of Male Genital Dermatology</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(25).pdf" style="text-decoration:none;">Concise Manual of Cosmetic Dermatologic Surgery</a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(26).pdf" style="text-decoration:none;">Daily Routine in Cosmetic Dermatology</a></b></li>  
      
  </ul>
