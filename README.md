@@ -26,16 +26,16 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(12).pdf" style="text-decoration:none;">Oxford Handbook of Medical Dermatology</a></b></li>  
    
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(13).pdf" style="text-decoration:none;">The Art of Prolog: Advanced Programming Techniques</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(13).pdf" style="text-decoration:none;">Dermatologic Surgery</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(14).pdf" style="text-decoration:none;">Thinking as Computation: A First Course</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(15).pdf" style="text-decoration:none;">Prolog by Example: How to Learn, Teach and Use It</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(14).pdf" style="text-decoration:none;">Dermatology and Dermatological Therapy of Pigmented Skins</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(15).pdf" style="text-decoration:none;">Evidence Based Dermatology</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(16).pdf" style="text-decoration:none;">The Practice of Prolog</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(16).pdf" style="text-decoration:none;">Molecular Diagnostics for Dermatology</a></b></li>  
    
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(17).pdf" style="text-decoration:none;">The Clean Coder: A Code of Conduct for Professional Programmers</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(17).pdf" style="text-decoration:none;">The Manual of Dermatology</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(18).pdf" style="text-decoration:none;">The Visual LISP Developers Bible</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(18).pdf" style="text-decoration:none;">Retinoids and Carotenoids in Dermatology</a></b></li>  
 
 
 
