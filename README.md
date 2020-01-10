@@ -21,7 +21,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(9).pdf" style="text-decoration:none;">Top 50 Dermatology Case Studies for Primary Care</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(10).pdf" style="text-decoration:none;">Handbook of Dermatology: A Practical Manual</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(11).pdf" style="text-decoration:none;">Prolog Versus You: An Introduction to Logic Programming</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(11).pdf" style="text-decoration:none;">Clinical Cases in Skin of Color</a></b></li>
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Dermatology-Books/blob/master/der(12).pdf" style="text-decoration:none;">Oxford Handbook of Medical Dermatology</a></b></li>  
    
